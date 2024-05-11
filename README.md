@@ -20,16 +20,10 @@ Este repositório contém o projeto "C#: Criando Sua Primeira Aplicação", um g
 - Criação de funções para mostrar o menu principal e registrar bandas em listas e dicionários
 - Aprendizado sobre avaliação de bandas e cálculo de médias com base nos dados registrados
 
-## Como Utilizar
-
-1. Instale o Visual Studio Code e o .NET Core em seu sistema operacional.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/csharp-primeira-aplicacao`.
-3. Abra o projeto no Visual Studio Code e execute-o usando o .NET Core.
-
 ## Contribuição
 
 Contribuições são bem-vindas!
 
 ## Autores
 
-Desenvolvido por Guilherme G. Santos - [Quidoguim](https://github.com/seu-usuario).
+Desenvolvido por Guilherme G. Santos - [Quidoguim](https://github.com/Quidoguim).
